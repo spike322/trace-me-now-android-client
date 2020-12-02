@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.amazonaws:aws-android-sdk-iot:2.18.0@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/68a27874e93ef50ab914535b210c94f6/jetified-aws-android-sdk-iot-2.18.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/68a27874e93ef50ab914535b210c94f6/jetified-aws-android-sdk-iot-2.18.0/res" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/68a27874e93ef50ab914535b210c94f6/jetified-aws-android-sdk-iot-2.18.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-android-sdk-iot/2.18.0/76c7f270cb11c6c82fcf0f1160e93a02b046db3f/aws-android-sdk-iot-2.18.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

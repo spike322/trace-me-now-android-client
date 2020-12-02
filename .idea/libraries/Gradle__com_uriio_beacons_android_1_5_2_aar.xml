@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Gradle: com.uriio:beacons-android:1.5.2@aar">
+    <ANNOTATIONS>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/d8486c6db8775ecdf5d8f217b46e7fdf/jetified-beacons-android-1.5.2/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/d8486c6db8775ecdf5d8f217b46e7fdf/jetified-beacons-android-1.5.2/res" />
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/d8486c6db8775ecdf5d8f217b46e7fdf/jetified-beacons-android-1.5.2/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/d8486c6db8775ecdf5d8f217b46e7fdf/jetified-beacons-android-1.5.2/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/com.uriio/beacons-android/1.5.2/5092ec83273b76f24271a96a0ccf03879eb7473d/beacons-android-1.5.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/com.uriio/beacons-android/1.5.2/677c0248851fd16dc48bd6fd8f11fdec7d10eab5/beacons-android-1.5.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

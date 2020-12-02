@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.amazonaws:aws-android-sdk-lex:2.6.31@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/e1d9fb0bcd77905e4132b29685ee4142/jetified-aws-android-sdk-lex-2.6.31/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/e1d9fb0bcd77905e4132b29685ee4142/jetified-aws-android-sdk-lex-2.6.31/res" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/e1d9fb0bcd77905e4132b29685ee4142/jetified-aws-android-sdk-lex-2.6.31/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-android-sdk-lex/2.6.31/74e7be9720d04d268260447875df88103aaeb08f/aws-android-sdk-lex-2.6.31-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-android-sdk-lex/2.6.31/6f49557dbed079a16be171753bf4bc7995363ae5/aws-android-sdk-lex-2.6.31-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

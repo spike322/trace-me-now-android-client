@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.amazonaws:aws-android-sdk-core:2.19.0@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/7d8b1560f8093e7cf1883f8db0c52234/jetified-aws-android-sdk-core-2.19.0/res" />
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/ffb2853f7b049927c40ca6b6184d7e71/jetified-aws-android-sdk-core-2.19.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/ffb2853f7b049927c40ca6b6184d7e71/jetified-aws-android-sdk-core-2.19.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/ffb2853f7b049927c40ca6b6184d7e71/jetified-aws-android-sdk-core-2.19.0/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-android-sdk-core/2.19.0/4292cffd71f1ded53c3e11f4100f13bbefd3e7d9/aws-android-sdk-core-2.19.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

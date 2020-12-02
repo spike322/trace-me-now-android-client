@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: org.conscrypt:conscrypt-android:2.4.0@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/d7192c0719fe250319b9879b49392cca/jetified-conscrypt-android-2.4.0/res" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/f256a9bd82f246f6cffab6099f9c8572/jetified-conscrypt-android-2.4.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/f256a9bd82f246f6cffab6099f9c8572/jetified-conscrypt-android-2.4.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/f256a9bd82f246f6cffab6099f9c8572/jetified-conscrypt-android-2.4.0/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/org.conscrypt/conscrypt-android/2.4.0/898c08ea6d75fbb95dc38a345f22c76023805ea8/conscrypt-android-2.4.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/org.conscrypt/conscrypt-android/2.4.0/ba14346141586ce2c67b655cd4fc5ca70e9c80d2/conscrypt-android-2.4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
