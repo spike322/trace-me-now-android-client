@@ -26,7 +26,7 @@ and add the dependency
 ```gradle
 dependencies {
     ...
-    implementation 'com.github.spike322:trace-me-now-android-client:0.0.2'
+    implementation 'com.github.spike322:trace-me-now-android-client:0.0.3'
     implementation 'org.eclipse.paho:org.eclipse.paho.client.mqttv3:1.1.0'
     implementation 'org.eclipse.paho:org.eclipse.paho.android.service:1.1.1'
 }
@@ -148,6 +148,8 @@ MqttCallbackExtended callback = new MqttCallbackExtended() {
             }
         };
 ```
+
+*Note that you can always access to your UUID with `bleSetup.getClientId()`, or `mqttClient.getClientId()`, or `awsClient.getClientId()`*.
 
 In the `messageArrived()` method you can check from which topic the message arrives and define a specific behaviour.
 
@@ -276,6 +278,8 @@ awsClient.connect();
 ```
 
 Now that you are connected, you might want to subscribe to some (or even all) of the [default events](#notification-system) in order to receive notifications, or you might want to get some custom notification.
+
+*Note that you can always access to your UUID with `bleSetup.getClientId()`, or `mqttClient.getClientId()`, or `awsClient.getClientId()`*.
 
 ```java
 awsClient.getNewDeviceNotification(new AWSIotMqttNewMessageCallback() {
